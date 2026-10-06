@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+ body{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgba(255, 216, 223, 0.836);
+        margin: 0;
+        padding: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0px;
+
+    }
+    form{  
+    align-items: center;
+      margin: auto;  
+      background-color: #fff;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    
+    .formulario{
+        display: grid;
+        flex-direction: column;
+        gap: 10px;
+    }
+        label{
+            font-size: 20px;
+            font-weight: bold;
+            padding: 20px;
+        }
+    input{
+        padding: 10px;
+        border: 2px solid #ccc;
+        border-radius: 10px;
+        font-size: 20px;
+    
+    }
+    select{
+        padding: 10px;
+        border: 2px solid #ccc;
+        border-radius: 10px;
+        font-size: 20px;
+    }
+    option{
+        font-size: 20px;
+        border: 2px solid #ccc;
+        border-radius: 10px;
+    }
+    
+    
+    

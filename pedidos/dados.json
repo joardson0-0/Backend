@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "nome": "Produto 1",
+        "unidade": "kg",
+        "preco": 2.55,
+        "quantidade": 2
+    },
+    {
+        "id": 2,
+        "nome": "Produto 2",
+        "unidade": "unidade",
+        "preco": 5.00,
+        "quantidade": 3
+    },
+    {
+        "id": 3,
+        "nome": "Produto 3",
+        "unidade": "kg",
+        "preco": 12.00,
+        "quantidade": 5
+
+    }
+
+]
