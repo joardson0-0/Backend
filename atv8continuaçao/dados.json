@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "nome": "João",
+        "email": "joão@gmail.com",
+        "telefone": "1234-4453",
+        "senha": "senha123"
+    },
+    {
+        "id": 2,
+        "nome": "Maria",
+        "email": "maria@gmail.com",
+        "telefone":"1234-9453",
+        "senha": "senha923"
+
+    },
+    {
+        "id": 3,
+        "nome": "lucas",
+        "email": "lucas@gmail.com",
+        "telefone": "1434-4453",
+        "senha": "senha163"
+    }
+]
